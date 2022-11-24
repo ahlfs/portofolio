@@ -1,0 +1,105 @@
+body {
+    background-color: black;
+    color: yellow;
+    
+}
+
+
+.row {
+    background-color: black;
+}
+
+.card {
+    background-color: black;
+    color: yellow;
+}
+
+li {
+    color: black;
+}
+
+section {
+    min-height: 100px;
+}
+
+.bege {
+    background-color: #1c1c1c;
+}
+
+.tengah {
+    text-align: center;
+}
+
+.kiri {
+    text-align: left;
+    color: black;
+    padding-top: 3px;
+    padding-right: 30px;
+    padding-left: 15px;
+}
+
+/* Service */
+#services {
+    background: black;
+    padding-bottom: 80px;
+  }
+  
+  .services-block span {
+    margin: 10px 0;
+    font-size: 13px;
+    color: white;
+    letter-spacing: 0.1em;
+    font-weight: 500;
+    text-transform: uppercase;
+    display: block;
+  }
+  
+  .services-block i {
+    font-size: 44px;
+    color: yellow;
+    line-height: 44px;
+  }
+
+footer {
+    color: white;
+}
+
+.bawah {
+    color: black;
+    background-color: yellow;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bio {
+    color: yellow;
+    background-color: black;
+}
+
+.prfl {
+    padding-top: 45px;
+    margin-left: 200px;
+    background-color: black;
+}
+
+.blck {
+    color: black;
+}
+
+.baten:hover{
+    opacity: 100%;
+    transition: .9s ease;
+}
+
+.baten {
+    opacity: 0%;
+}
+
+.tinggisama {
+    height: 500px;
+}
+
+.tengahgambar {
+    margin-bottom: 200px;
+    color: yellow;
+}
